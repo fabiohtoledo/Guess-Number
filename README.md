@@ -9,12 +9,12 @@
 
 An interactive number guessing game built with HTML, CSS, and JavaScript to practice front-end development fundamentals.
 
-[**Live Demo / Project Link**](#)
+<a href="https://fabiohtoledo.github.io/Guess-Number/" target="_blank">**Live Demo / Project Link**</a>
 
 ## 📋 About the Project
 A web-based game where players guess a randomly generated number within a limited number of attempts. This project was developed as part of a hands-on front-end course focused on applying HTML5, CSS3, and JavaScript concepts in a practical application.
 
-[**Related Course / Documentation Link**](#)
+<a href="https://www.udemy.com/course/html5-css3-e-javascript-na-pratica-3-projetos/" target="_blank">**Related Course / Documentation Link**</a>
 
 ## 🚀 Features
 - Interactive form for user input and guesses
@@ -45,12 +45,12 @@ A web-based game where players guess a randomly generated number within a limite
 
 Um jogo interativo de adivinhação de números construído com HTML, CSS e JavaScript para praticar fundamentos de desenvolvimento front-end.
 
-[**Link do Projeto / Demo**](#)
+<a href="https://fabiohtoledo.github.io/Guess-Number/" target="_blank">**Link do Projeto / Demo**</a>
 
 ## 📋 Sobre o Projeto
 Um jogo baseado na web onde os jogadores tentam adivinhar um número gerado aleatoriamente dentro de um número limitado de tentativas. Este projeto foi desenvolvido como parte de um curso prático de front-end focado na aplicação de conceitos de HTML5, CSS3 e JavaScript em uma aplicação real.
 
-[**Link do Curso / Documentação**](#)
+<a href="https://www.udemy.com/course/html5-css3-e-javascript-na-pratica-3-projetos/" target="_blank">**Link do Curso / Documentação**</a>
 
 ## 🚀 Funcionalidades
 - Formulário interativo para entrada de palpites
